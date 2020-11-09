@@ -1,0 +1,221 @@
+{
+  "id": "https://doi.org/10.1594/wdcc/cmaq_cclm_hzg_2008",
+  "doi": "10.1594/WDCC/CMAQ_CCLM_HZG_2008",
+  "url": "http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=CMAQ_CCLM_HZG_2008",
+  "creators": [
+    {
+      "name":"Neumann, Daniel",
+      "nameType":"Personal",
+      "givenName":"Daniel",
+      "familyName":"Neumann",
+      "nameIdentifiers":
+        {
+          "nameIdentifier":"https://orcid.org/0000-0001-8574-9093",
+         "nameIdentifierScheme":"ORCID",
+          "schemeUri":"https://orcid.org"
+        },
+      "affiliation":
+        {
+          "name":"Leibniz -Institut fuer Ostseeforschung Warnemuende (IOW)",
+          "affiliationIdentifier":"https://ror.org/03xh9nq73" ,
+          "affiliationIdentifierScheme":"ROR",
+          "SchemeURI":"https://ROR.org"
+        }
+      },  
+    {
+      "name": "Matthias, Volker",
+      "nameType": "Personal",
+      "givenName": "Volker",
+      "familyName": "Matthias",
+      "nameIdentifiers":
+        {
+          "nameIdentifier":"https://orcid.org/0000-0003-0519-8805",
+         "nameIdentifierScheme":"ORCID",
+          "schemeUri":"https://orcid.org"
+        },
+      "affiliation": [
+        {
+          "name": "Helmholtz-Zentrum Geesthacht, Zentrum für Material- und Küstenforschung GmbH (HZG)",
+          "affiliationIdentifier":"https://ror.org/03qjp1d79" ,
+          "affiliationIdentifierScheme":"ROR",
+          "SchemeURI":"https://ROR.org"
+        }
+      ]
+    },
+    {
+      "name": "Bieser, Johannes",
+      "nameType": "Personal",
+      "givenName": "Johannes",
+      "familyName": "Bieser",
+      "affiliation": [
+        {
+          "name": "Helmholtz-Zentrum Geesthacht, Zentrum für Material- und Küstenforschung GmbH (HZG)",
+          "affiliationIdentifier":"https://ror.org/03qjp1d79" ,
+          "affiliationIdentifierScheme":"ROR",
+          "SchemeURI":"https://ROR.org"
+        }
+      ]
+    },
+    {
+      "name": "Aulinger, Armin",
+      "nameType": "Personal",
+      "givenName": "Armin",
+      "familyName": "Aulinger",
+      "affiliation": [
+        {
+          "name": "Helmholtz-Zentrum Geesthacht, Zentrum für Material- und Küstenforschung GmbH (HZG)",
+          "affiliationIdentifier":"https://ror.org/03qjp1d79" ,
+          "affiliationIdentifierScheme":"ROR",
+          "SchemeURI":"https://ROR.org"
+        }
+      ]
+    }
+  ],
+  "titles": [
+    {
+      "title": "Concentrations of gaseous pollutants and particulate compounds over Northwestern Europe and nitrogen deposition into the North and Baltic Sea in 2008"
+    }
+  ],
+  "publisher": "World Data Center for Climate (WDCC) at DKRZ",
+  "container": {},
+  "subjects": [
+    {
+      "subject": "Climate"
+    },
+    {
+      "subject": "aerosol"
+    },
+    {
+      "subject": "air pollution"
+    },
+    {
+      "subject": "air quality"
+    },
+    {
+      "subject": "atmospheric chemistry"
+    },
+    {
+      "subject": "chemistry transport modeling"
+    },
+    {
+      "subject": "coastDat-2"
+    },
+    {
+      "subject": "coastdat"
+    },
+    {
+      "subject": "sea salt"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Matthias, Volker",
+      "nameType": "Personal",
+      "givenName": "Volker",
+      "familyName": "Matthias",
+      "nameIdentifiers":
+        {
+          "nameIdentifier":"https://orcid.org/0000-0003-0519-8805",
+         "nameIdentifierScheme":"ORCID",
+          "schemeUri":"https://orcid.org"
+        },
+      "affiliation": [
+        {
+          "name": "Helmholtz-Zentrum Geesthacht, Zentrum für Material- und Küstenforschung GmbH (HZG)",
+          "affiliationIdentifier":"https://ror.org/03qjp1d79" ,
+          "affiliationIdentifierScheme":"ROR",
+          "SchemeURI":"https://ROR.org"
+        }
+      ],
+      "contributorType": "ContactPerson"
+    }
+  ],
+  "dates": [
+    {
+      "date": "2017-06-08",
+      "dateType": "Created"
+    },
+    {
+      "date": "2017",
+      "dateType": "Issued"
+    }
+  ],
+  "publicationYear": 2017,
+  "language": "en",
+  "identifiers": [
+    {
+      "identifier": "https://doi.org/10.1594/wdcc/cmaq_cclm_hzg_2008",
+      "identifierType": "DOI"
+    }
+  ],
+  "types":
+    {
+      "ris":"DATA",
+      "bibtex":"misc",
+      "citeproc":"dataset",
+      "schemaOrg":"Dataset",
+      "resourceType":"Digital",
+      "resourceTypeGeneral":"Dataset"
+    },
+  "sizes": [
+    "12459482227 Bytes"
+  ],
+  "formats": [
+    "application/x-netcdf"
+  ],
+  "version": "1",
+  "rightsList": [
+    {
+      "rights": "Creative Commons Attribution 4.0 International (CC-BY-4.0)",
+       "rightsUrI": "https://creativecommons.org/licenses/by/4.0/legalcode",
+       "rightsIdentifier": "CC-BY-4.0",
+       "rightsIdentifierScheme": "SPDX",
+       "schemeURI": "https://spdx.org/licenses/"
+    }
+  ],
+  "descriptions": [
+    {
+      "description": "Project: coastDat-2 - CoastDat-2 (http://www.coastdat.de/about_us/index.php) comprises a compilation of coastal analyses (that is hindcasts and reconstructions) and scenarios for the future obtained from numerical models. The atmospheric part of the dataset is simulatated using the COSMO-CLM (http://www.clm-community.eu). The objective is to provide a consistent meteo-marine data set. Summary: The concentrations and deposition of atmospheric constituents such as air pollutants were modeled with the Community Multiscale Air Quality (CMAQ) Model system for the year 2008. A focus was on sea salt emissions, atmospheric sea salt concentrations and the interaction between sea salt particles and atmospheric nitrogen compounds. For this purpose, two model runs with different realistic sea salt emission parameterizations were performed and are provided here. The model run CMAQ_CD24_seasalt_base uses the default sea salt emission parameterization of CMAQ denoted as GO03. The model run CMAQ_CD24_seasalt_ov14 uses an alternative sea salt emission parameterization denoted as OV14. Please refer to the connected references for information on the two sea salt emission parameterizations and their implementation. The dataset also contains meteorological input parameters in order to allow the user to perform unit conversions for some model variables. Additionally, the land-sea mask and land fraction data per model grid cell are provided. The projection is a Lambert Conformal Conic projection. The parameters are given in the netCDF files.",
+      "descriptionType": "Abstract"
+    }
+  ],
+  "geoLocations": [
+    {
+      "geoLocationBox": {
+        "eastBoundLongitude": "36.9",
+        "northBoundLatitude": "67",
+        "southBoundLatitude": "42.6",
+        "westBoundLongitude": "18.9"
+      },
+      "geoLocationPlace": "Northwestern Europe"
+    }
+  ],
+  "fundingReferences": [],
+  "relatedIdentifiers": 
+  [
+    {
+       "relationType":"IsDocumentedBy",
+       "relatedIdentifierType":"DOI",
+       "DOI":"http://doi.org/10.1029/2001JD001409"
+    },
+    {
+      "relationType":"isDerivedFrom",
+      "relatedIdentifierType":"DOI",
+      "DOI":"http://doi.org/10.5194/gmd-4-47-2011"
+    },
+    {
+       "relationType":"isReviewedBy",
+        "relatedIdentifierType":"URL",
+        "URL":"https://cera -www.dkrz.de/WDCC/ui/cerasearch/entry?acronym=quality_checking_report"
+    },
+    {
+       "relationType":"References",
+      "relatedIdentifierType":"DOI",
+       "DOI":"http://doi.org/10.5194/acp-16-739-2016"
+    }
+  ],
+  "providerId": "dkrz",
+  "clientId": "dkrz.wdcc",
+  "agency": "datacite",
+  "state": "findable"
+}

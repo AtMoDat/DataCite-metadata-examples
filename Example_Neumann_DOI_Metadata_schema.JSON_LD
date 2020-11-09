@@ -1,0 +1,110 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Dataset",
+  "@id": "https://doi.org/10.1594/wdcc/cmaq_cclm_hzg_2008",
+  "identifier": {
+    "@type": "PropertyValue",
+    "propertyID": "DOI",
+    "value": "https://doi.org/10.1594/wdcc/cmaq_cclm_hzg_2008"
+  },
+  "url": "http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=CMAQ_CCLM_HZG_2008",
+  "additionalType": "Digital",
+  "name": "Concentrations of gaseous pollutants and particulate compounds over Northwestern Europe and nitrogen deposition into the North and Baltic Sea in 2008",
+  "author": [
+    {
+      "name": "Daniel Neumann",
+      "givenName": "Daniel",
+      "familyName": "Neumann",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Leibniz-Institut für Ostseeforschung Warnemünde (IOW)",
+        "@id": "https://ror.org/03xh9nq73"
+      },
+     "@type": "Person",
+      "@id": "https://orcid.org/0000-0001-8574-9093"
+    },
+    {
+      "name": "Volker Matthias",
+      "givenName": "Volker",
+      "familyName": "Matthias",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Helmholtz-Zentrum Geesthacht, Zentrum für Material- und Küstenforschung GmbH (HZG)",
+        "@id": "https://ror.org/03qjp1d79"
+      },
+      "@type": "Person",
+      "@id": "https://orcid.org/0000-0003-0519-8805"
+
+    },
+    {
+      "name": "Johannes Bieser",
+      "givenName": "Johannes",
+      "familyName": "Bieser",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Helmholtz-Zentrum Geesthacht, Zentrum für Material- und Küstenforschung GmbH (HZG)",
+         "@id": "https://ror.org/03qjp1d79"
+      },
+      "@type": "Person",
+      "@id": "https://orcid.org/0000-0003-2938-3124"
+      
+    },
+    {
+      "name": "Armin Aulinger",
+      "givenName": "Armin",
+      "familyName": "Aulinger",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Helmholtz-Zentrum Geesthacht, Zentrum für Material- und Küstenforschung GmbH (HZG)",
+        "@id": "https://ror.org/03qjp1d79"
+      },
+      "@type": "Person"
+    }
+  ],
+  "editor": {
+    "name": "Volker Matthias",
+    "givenName": "Volker",
+    "familyName": "Matthias",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "Helmholtz-Zentrum Geesthacht, Zentrum für Material- und Küstenforschung GmbH (HZG)",
+      "@id": "https://ror.org/03qjp1d79"
+    },
+    "contributorType": "ContactPerson",
+    "@type": "Person",
+    "@id": "https://orcid.org/0000-0003-0519-8805"
+  },
+  "description": "Project: coastDat-2 - CoastDat-2 (http://www.coastdat.de/about_us/index.php) comprises a compilation of coastal analyses (that is hindcasts and reconstructions) and scenarios for the future obtained from numerical models. The atmospheric part of the dataset is simulatated using the COSMO-CLM (http://www.clm-community.eu). The objective is to provide a consistent meteo-marine data set. Summary: The concentrations and deposition of atmospheric constituents such as air pollutants were modeled with the Community Multiscale Air Quality (CMAQ) Model system for the year 2008. A focus was on sea salt emissions, atmospheric sea salt concentrations and the interaction between sea salt particles and atmospheric nitrogen compounds. For this purpose, two model runs with different realistic sea salt emission parameterizations were performed and are provided here. The model run CMAQ_CD24_seasalt_base uses the default sea salt emission parameterization of CMAQ denoted as GO03. The model run CMAQ_CD24_seasalt_ov14 uses an alternative sea salt emission parameterization denoted as OV14. Please refer to the connected references for information on the two sea salt emission parameterizations and their implementation. The dataset also contains meteorological input parameters in order to allow the user to perform unit conversions for some model variables. Additionally, the land-sea mask and land fraction data per model grid cell are provided. The projection is a Lambert Conformal Conic projection. The parameters are given in the netCDF files.",
+   "license": [
+    "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "info:eu-repo/semantics/openAccess"
+  ],
+  "version": "1",
+  "keywords": "Climate, aerosol, air pollution, air quality, atmospheric chemistry, chemistry transport modeling, coastDat-2, coastdat, sea salt",
+  "inLanguage": "en",
+  "contentSize": "12459482227 Bytes",
+  "encodingFormat": "application/x-netcdf",
+  "dateCreated": "2017-06-08",
+  "datePublished": "2017",
+  "spatialCoverage": {
+    "@type": "Place",
+    "geo": {
+      "@type": "GeoShape",
+      "address": "Northwestern Europe",
+      "box": "42.6 18.9 67 36.9"
+    }
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "World Data Center for Climate (WDCC) at DKRZ",
+    "@id": "https://ror.org/03ztgj037"
+  },
+  "provider": {
+    "@type": "Organization",
+    "name": "datacite",
+    "@id": "https://ror.org/04wxnsj81"
+  },
+    "isBasedon": "http://doi.org/10.5194/gmd-4-47-2011",
+    "mentions":  "http://doi.org/10.5194/acp-16-739-2016",
+    "review": "https://cera-www.dkrz.de/WDCC/ui/cerasearch/entry?acronym=quality_checking_report",
+    }
